@@ -1,11 +1,11 @@
 
 # Debsify Satisfying
 
-A brief description of what this project does and who it's for
+What's Happening?
 
 
 ## About Me
-I'm a full stack developer...
+I'm a creative...
 
 
 ## 🔗 Links
