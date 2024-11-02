@@ -1,10 +1,10 @@
 
-# Project Title
+# Debsify Satisfying
 
 A brief description of what this project does and who it's for
 
 
-## 🚀 About Me
+## About Me
 I'm a full stack developer...
 
 
